@@ -7,7 +7,7 @@ html_document:
 number_sections: true
 toc: true
 ---
-
+  
 
 ```{r include=FALSE,echo=FALSE}
 require(tigerstats)
@@ -70,3 +70,5 @@ the p-value is 0.000009421 is very small number and this is way smaller than 0.0
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 When your markdown file successfully knits and you are satisfied with your results, then push your work back to your github repository and submit the link to your github repo to canvas  to complete this assignment.
+
+Since we rejected the null hypothesis, we conclude that the average number of pushups done by line players is less than the average number done by the skill players. 
